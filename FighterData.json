@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Sylvester WILLIAMS",
+        "player": "Éric",
+        "initiative": 0,
+        "state": ".attack",
+        "actions": 0,
+        "tests": 0,
+        "isSelected": true,
+        "id": "0ddd74bd-cca8-4e7f-a497-f7594a591213"
+    },
+    {
+        "name": "Louis TANGALOA",
+        "player": "Éric",
+        "initiative": 0,
+        "state": ".attack",
+        "actions": 0,
+        "tests": 0,
+        "isSelected": true,
+        "id": "fa976508-1f57-4d88-9f61-2265a3c24b39"
+    },
+    {
+        "name": "Émiliano SANCHEZ",
+        "player": "Éric",
+        "initiative": 0,
+        "state": ".attack",
+        "actions": 0,
+        "tests": 0,
+        "isSelected": true,
+        "id": "7e3f7fa7-a072-4c7e-8f21-16385bb76891"
+    },
+    {
+        "name": "Léna ROSAY",
+        "player": "Éric",
+        "initiative": 0,
+        "state": ".attack",
+        "actions": 0,
+        "tests": 0,
+        "isSelected": true,
+        "id": "87d4f08b-fdd4-4b40-ba54-1eb049809564"
+    },
+    {
+        "name": "Dimitri VOLSKOFF",
+        "player": "Éric",
+        "initiative": 0,
+        "state": ".attack",
+        "actions": 0,
+        "tests": 0,
+        "isSelected": true,
+        "id": "78147518-3a7f-4278-b044-9de9a34ce85d"
+    }
+]
